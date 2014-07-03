@@ -1,0 +1,11 @@
+C:\btcft\StockTrader RI\tradesrv\bitcoin-wrapper-master\BitcoinWrapper\bin\Debug\BitcoinWrapper.dll
+C:\btcft\StockTrader RI\tradesrv\bitcoin-wrapper-master\BitcoinWrapper\bin\Debug\BitcoinWrapper.pdb
+C:\btcft\StockTrader RI\tradesrv\bitcoin-wrapper-master\BitcoinWrapper\bin\Debug\Newtonsoft.Json.dll
+C:\btcft\StockTrader RI\tradesrv\bitcoin-wrapper-master\BitcoinWrapper\obj\Debug\BitcoinWrapper.csprojResolveAssemblyReference.cache
+C:\btcft\StockTrader RI\tradesrv\bitcoin-wrapper-master\BitcoinWrapper\obj\Debug\BitcoinWrapper.dll
+C:\btcft\StockTrader RI\tradesrv\bitcoin-wrapper-master\BitcoinWrapper\obj\Debug\BitcoinWrapper.pdb
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\bin\Debug\BitcoinWrapper.dll
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\bin\Debug\BitcoinWrapper.pdb
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\obj\Debug\BitcoinWrapper.csprojResolveAssemblyReference.cache
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\obj\Debug\BitcoinWrapper.dll
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\obj\Debug\BitcoinWrapper.pdb

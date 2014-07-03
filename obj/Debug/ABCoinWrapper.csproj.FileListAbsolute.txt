@@ -1,0 +1,5 @@
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\bin\Debug\ABCoinWrapper.dll
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\bin\Debug\ABCoinWrapper.pdb
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\obj\Debug\ABCoinWrapper.csprojResolveAssemblyReference.cache
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\obj\Debug\ABCoinWrapper.dll
+C:\BitcoinDeps\abcoin-0.8.6\MSVC\BitcoinWrapper\obj\Debug\ABCoinWrapper.pdb
